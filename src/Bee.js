@@ -1,3 +1,5 @@
-class Bee {
-  // TODO..
+class Bee extends Grub{
+  constructor() {
+    this.age = 5;
+  }
 };
